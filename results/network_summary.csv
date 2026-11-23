@@ -1,0 +1,17 @@
+,value
+vertices,1468
+total_edges,2205
+unique_edges,1845
+edges_with_duplicates,360
+self_loops,375
+connected_components,249
+single_vertex_components,145
+largest_component_vertices,1029
+largest_component_edges,1342
+max_geodesic_distance_largest,14
+avg_geodesic_distance_largest,4.6493
+graph_density_directed,0.000857
+groups_cnm,270
+modularity_cnm,0.7814
+date_min,2023-10-21 19:43:59
+date_max,2024-11-01 03:40:28
